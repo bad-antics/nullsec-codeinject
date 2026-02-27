@@ -204,7 +204,7 @@ proc matchesPattern(calls, pattern, threshold = 0.7):
 
 Part of the **NullSec** security toolkit collection:
 - 🌐 [Portal](https://bad-antics.github.io)
-- 💬 [Discord](https://discord.gg/killers)
+- 💬 [Discord](https://x.com/AnonAntics)
 - 📦 [GitHub](https://github.com/bad-antics)
 
 ## License
